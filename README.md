@@ -11,6 +11,7 @@
 - **Уеб интерфейс** за преглед, търсене, сортиране и статистики;
 - **AI анализ и обобщение** на всяка поръчка чрез DeepSeek.
 
+<img src="screenshots/screen1.jpg" width="600" height="480" />
 ![](screenshots/screen1.jpg =250x250)
 ![](screenshots/screen2.jpg =250x250)
 ![](screenshots/screen3.png =250x250)
