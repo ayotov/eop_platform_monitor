@@ -11,11 +11,11 @@
 - **Уеб интерфейс** за преглед, търсене, сортиране и статистики;
 - **AI анализ и обобщение** на всяка поръчка чрез DeepSeek.
 
-<img src="screenshots/screen1.jpg" width="800" height="600" />
-<img src="screenshots/screen2.jpg" width="800" height="600" />
-<img src="screenshots/screen4.jpg" width="320" height="240" />
-<img src="screenshots/screen5.png" width="800" height="600" />
-<img src="screenshots/screen3.png" width="600" height="480" />
+<img src="screenshots/screen1.jpg" width="800" />
+<img src="screenshots/screen2.jpg" width="800" />
+<img src="screenshots/screen4.jpg" width="800" />
+<img src="screenshots/screen5.png" width="400" />
+<img src="screenshots/screen3.png" width="400" />
 ---
 
 ## Файлове в пакета
