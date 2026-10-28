@@ -11,6 +11,12 @@
 - **Уеб интерфейс** за преглед, търсене, сортиране и статистики;
 - **AI анализ и обобщение** на всяка поръчка чрез DeepSeek.
 
+![description](screenshots/screen1.jpg)
+![description](screenshots/screen2.jpg)
+![description](screenshots/screen3.png)
+![description](screenshots/screen4.jpg)
+![description](screenshots/screen5.png)
+
 ---
 
 ## Файлове в пакета
