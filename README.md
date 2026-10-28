@@ -11,11 +11,11 @@
 - **Уеб интерфейс** за преглед, търсене, сортиране и статистики;
 - **AI анализ и обобщение** на всяка поръчка чрез DeepSeek.
 
-![description](screenshots/screen1.jpg | width=800)
-![description](screenshots/screen2.jpg)
-![description](screenshots/screen3.png | width=400)
-![description](screenshots/screen4.jpg)
-![description](screenshots/screen5.png)
+![](screenshots/screen1.jpg =250x250)
+![](screenshots/screen2.jpg =250x250)
+![](screenshots/screen3.png =250x250)
+![](screenshots/screen4.jpg =250x250)
+![](screenshots/screen5.png =250x250)
 
 ---
 
