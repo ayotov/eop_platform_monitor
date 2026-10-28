@@ -69,7 +69,7 @@
 # 1) Клонирайте хранилището и влезте в папката
 git clone https://github.com/ayotov/eop_platform_monitor.git && cd eop_platform_monitor
 
-# 2) (препоръчително) създайте виртуална среда
+# 2) (Опционално но препоръчително) създайте виртуална среда
 python3 -m venv .venv
 source .venv/bin/activate
 
