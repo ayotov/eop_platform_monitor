@@ -14,16 +14,12 @@
 <p align="center">
   <img src="screenshots/screen1.jpg" width="800" />
   
-    ---
   <img src="screenshots/screen2.jpg" width="800" />
   
-    ---
   <img src="screenshots/screen4.jpg" width="800" />
   
-    ---
   <img src="screenshots/screen5.png" width="400" />
   
-    ---
   <img src="screenshots/screen3.png" width="600" />
 </p>
 
