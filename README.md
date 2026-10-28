@@ -13,10 +13,9 @@
 
 <img src="screenshots/screen1.jpg" width="600" height="480" />
 <img src="screenshots/screen2.jpg" width="600" height="480" />
-<img src="screenshots/screen3.png" width="600" height="480" />
 <img src="screenshots/screen4.jpg" width="320" height="240" />
 <img src="screenshots/screen5.png" width="320" height="240" />
-
+<img src="screenshots/screen3.png" width="600" height="480" />
 ---
 
 ## Файлове в пакета
